@@ -19,7 +19,7 @@ INSTALL = $(shell) $(SCRIPT_DIR)/install.sh
 LINTCODE = $(shell) $(SCRIPT_DIR)/lintcode.sh
 TEST = $(shell) $(SCRIPT_DIR)/test.sh
 WATCH = $(shell) $(SCRIPT_DIR)/watch.sh
-
+GENERATE = $(shell) $(SCRIPT_DIR)/generate.sh
 
 clean:
 	$(CLEAN)
@@ -43,6 +43,10 @@ grip:
 
 install:
 	$(INSTALL)
+
+
+generate:
+	$(GENERATE)
 
 
 maintainer-clean: distclean
