@@ -23,3 +23,29 @@ self-sufficient container that will run virtually anywhere.
 * run self-sufficient containers.
 * Amazing speed.
 * LightWeight
+
+---
+
+## What is container in docker
+
+---
+
+## Why people developer love docker
+
+### Shipping code to server is easy.
+
+---
+
+### Finding and downloading images
+
+    !bash
+    docker search ubuntu
+    docker pull ubuntu:14.04
+
+---
+
+### Running
+
+    !bash
+    docker run ubuntu:14.04 /bin/echo hello world
+    docker run -i -t ubuntu:14.04 /bin/bash
