@@ -2,12 +2,12 @@
 
 Docker
 
-[![Code Climate](https://codeclimate.com/github/luismayta/slide-docker4devs/badges/gpa.svg)](https://codeclimate.com/github/luismayta/slide-docker4devs)
-[![GitHub issues](https://img.shields.io/github/issues/luismayta/slide-docker4devs.svg)](https://github.com/luismayta/slide-docker4devs/issues)
-[![GitHub stars](https://img.shields.io/github/stars/luismayta/slide-docker4devs.svg)](https://github.com/luismayta/slide-docker4devs)
-[![Issue Count](https://codeclimate.com/github/luismayta/slide-docker4devs/badges/issue_count.svg)](https://codeclimate.com/github/luismayta/slide-docker4devs)
+[![Code Climate](https://codeclimate.com/github/luismayta/slides-docker4devs/badges/gpa.svg)](https://codeclimate.com/github/luismayta/slides-docker4devs)
+[![GitHub issues](https://img.shields.io/github/issues/luismayta/slides-docker4devs.svg)](https://github.com/luismayta/slides-docker4devs/issues)
+[![GitHub stars](https://img.shields.io/github/stars/luismayta/slides-docker4devs.svg)](https://github.com/luismayta/slides-docker4devs)
+[![Issue Count](https://codeclimate.com/github/luismayta/slides-docker4devs/badges/issue_count.svg)](https://codeclimate.com/github/luismayta/slides-docker4devs)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
-[![Test Coverage](https://codeclimate.com/github/luismayta/slide-docker4devs/badges/coverage.svg)](https://codeclimate.com/github/luismayta/slide-docker4devs/coverage)
+[![Test Coverage](https://codeclimate.com/github/luismayta/slides-docker4devs/badges/coverage.svg)](https://codeclimate.com/github/luismayta/slides-docker4devs/coverage)
 
 ## Install
 

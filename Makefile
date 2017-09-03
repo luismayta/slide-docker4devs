@@ -1,4 +1,4 @@
-# Makefile for slide-docker4devs.
+# Makefile for slides-docker4devs.
 
 # Configuration.
 SHELL = /bin/bash
