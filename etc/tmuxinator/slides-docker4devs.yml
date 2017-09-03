@@ -1,6 +1,6 @@
-# ~/.tmuxinator/slide-docker4devs.yml
-name: slide-docker4devs
-root: <%= ENV["PROJECTS"] %>/slides/slide-docker4devs
+# ~/.tmuxinator/slides-docker4devs.yml
+name: slides-docker4devs
+root: <%= ENV["PROJECTS"] %>/slides/slides-docker4devs
 tmux_options: -2
 # Optional tmux socket
 # socket_name: foo
@@ -33,36 +33,27 @@ windows:
       layout: even-horizontal
       panes:
         - editor:
-            - pyenv activate slide-docker4devs
-            - gvm pkgset use slide-docker4devs
-            - <%= ENV["EDITOR"] %>
+            - pyenv activate slides-docker4devs
         - pwd:
-            - pyenv activate slide-docker4devs
-            - gvm pkgset use slide-docker4devs
+            - pyenv activate slides-docker4devs
         - pwd:
-            - pyenv activate slide-docker4devs
-            - gvm pkgset use slide-docker4devs
+            - pyenv activate slides-docker4devs
   - python:
       layout: main-vertical
       panes:
         - python:
-            - pyenv activate slide-docker4devs
-            - gvm pkgset use slide-docker4devs
+            - pyenv activate slides-docker4devs
   - databases:
       layout: main-vertical
       panes:
         - ls:
-            - pyenv activate slide-docker4devs
-            - gvm pkgset use slide-docker4devs
+            - pyenv activate slides-docker4devs
         - ls:
-            - pyenv activate slide-docker4devs
-            - gvm pkgset use slide-docker4devs
+            - pyenv activate slides-docker4devs
   - docker:
       layout: main-vertical
       panes:
         - ls:
-            - pyenv activate slide-docker4devs
-            - gvm pkgset use slide-docker4devs
+            - pyenv activate slides-docker4devs
         - ls:
-            - pyenv activate slide-docker4devs
-            - gvm pkgset use slide-docker4devs
+            - pyenv activate slides-docker4devs
